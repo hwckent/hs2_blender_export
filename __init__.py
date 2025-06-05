@@ -48,7 +48,7 @@ bl_info = {
     "blender": (4, 0, 2),
     "description": "HS2 character importer",
     "category": "Object"
-    #"support": "COMMUNITY",   # 启用翻译
+    #"support": "COMMUNITY",   # 启用本地化语言
     #创建一个 .po 文件（例如，hs2rig.po），添加中文翻译，
     #使用 msgfmt 工具将 .po 编译为 .mo 文件（需要安装 gettext）
     #将 hs2rig.mo 放入 locale/zh_CN/LC_MESSAGES
