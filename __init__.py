@@ -48,6 +48,8 @@ bl_info = {
     "blender": (4, 0, 2),
     "description": "HS2 character importer",
     "category": "Object"
+    #"support": "COMMUNITY",   # 启用翻译
+    #"bl_info": {"translations": ["zh_CN"]}
 }
 
 def hs2object():
