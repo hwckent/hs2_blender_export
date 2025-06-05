@@ -1,1 +1,4 @@
+# Format: <texture_path> <md5_hash>
+#（初始为空，插件会自动填充纹理哈希）
+
 
