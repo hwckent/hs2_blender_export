@@ -45,7 +45,7 @@ bl_info = {
     "name": "HS2 character importer",
     "author": "",
     "version": (1, 0, 240328),
-    "blender": (4, 0, 2),
+    "blender": (4, 4, 3),
     "description": "HS2 character importer",
     "category": "Object"
     #"support": "COMMUNITY",   # 启用本地化语言
